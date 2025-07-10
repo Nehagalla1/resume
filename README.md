@@ -11,7 +11,7 @@ Strong background in Agile development, DevOps practices, and cloud platforms in
 
 ## 🔹 Resume
 
-- 📄 [Click here to view my resume](./Neha_Galla_Software_Engineer.pdf)
+- 📄 [Click here to view my resume](./NEHA GALLA_Software_Engineer.pdf)
 
 ## 🔹 Contact
 
